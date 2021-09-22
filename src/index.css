@@ -1,0 +1,27 @@
+body {
+
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+    background-color: #eee;
+}
+.showcase {
+  /*background: 
+  url("https://render.fineartamerica.com/images/images-profile-flow/400/images-medium-large-5/city-tunes-neelanjana-bandyopadhyay.jpg")
+       no-repeat center/cover;*/
+       height: 150px;
+       background-color: blue;
+       background-repeat: no-repeat right;
+
+       
+      }
+.showcase .overlay {
+ /* background-color: rgb(3, 3, 3);*/
+ height: 100px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+
+
+}
